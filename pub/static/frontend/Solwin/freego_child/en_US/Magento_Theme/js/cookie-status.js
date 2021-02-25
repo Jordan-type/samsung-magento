@@ -1,0 +1,1 @@
+C:/wamp64/www/samsung/vendor/magento/module-theme/view/frontend/web/js/cookie-status.js

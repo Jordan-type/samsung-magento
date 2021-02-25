@@ -1,0 +1,1 @@
+"Fatal Error: 'Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes)' in 'C:\\wamp64\\www\\samsung\\vendor\\composer\\composer\\src\\Composer\\Json\\JsonFile.php' on line 288"

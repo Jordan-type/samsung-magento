@@ -1,0 +1,1 @@
+C:/wamp64/www/samsung/vendor/magento/module-security/view/base/web/js/escaper.js

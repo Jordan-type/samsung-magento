@@ -1,0 +1,1 @@
+C:/wamp64/www/samsung/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js

@@ -1,0 +1,1 @@
+C:/wamp64/www/samsung/app/code/Solwin/ScrolltoTop/view/frontend/web/js/scroll.js

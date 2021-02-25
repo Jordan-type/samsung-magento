@@ -1,0 +1,1 @@
+C:/wamp64/www/samsung/app/code/Solwin/Cpanel/view/frontend/web/js/owl.carousel.js

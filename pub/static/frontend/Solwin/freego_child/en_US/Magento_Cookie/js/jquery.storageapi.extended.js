@@ -1,0 +1,1 @@
+C:/wamp64/www/samsung/vendor/magento/module-cookie/view/base/web/js/jquery.storageapi.extended.js
